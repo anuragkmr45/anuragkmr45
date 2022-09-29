@@ -1,6 +1,8 @@
  Hi there,👋 I’m Anurag kumar
- ![Uploading me banner.png…]()
+![me banner](https://user-images.githubusercontent.com/93537069/193080819-9152c1ac-fb37-44da-a735-f6dc891c1c0b.jpg)
+
 - 🌱 I’m currently working on something cool 😉
+
 - 👀 I’m interested in FUll-Stack Development
 - 🌱 I’m currently learning DevOps and ML
 - 💞️ I’m looking to collaborate on FUll-Stack Development

@@ -1,6 +1,7 @@
 # Hi there,👋 I’m Anurag kumar
  
-![me banner](https://user-images.githubusercontent.com/93537069/193080819-9152c1ac-fb37-44da-a735-f6dc891c1c0b.jpg)
+ ![me banner (1)](https://user-images.githubusercontent.com/93537069/193094655-9b6f7754-891e-45ea-ab07-75f2f0aebb97.jpg)
+
 
 - 🌱 I’m currently working on something cool 😉
 

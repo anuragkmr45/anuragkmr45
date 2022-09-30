@@ -7,7 +7,6 @@
 
 - 👀 I’m interested in FUll-Stack Development
 - 🌱 I’m currently learning DevOps and ML
-- 💞️ I’m looking to collaborate on FUll-Stack Development
 - 📫 How to reach me 
   - [Linkedin](https://www.linkedin.com/in/anurag-kumar-37aab221a/)
   - [Instagram](https://www.instagram.com/anuragkmr_45/)

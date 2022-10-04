@@ -1,13 +1,14 @@
+<p align="center">
+<img  alt="Coding" height="300" width="1000" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
+  </p>
+
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href='https://anuragkmr45.netlify.app/' target='_blank'> Anurag Kumar </a></h1>
-
-<!-- ![Black Modern Blogger YouTube Channel Art (1)](https://user-images.githubusercontent.com/93537069/193615412-250f5870-418e-49d0-b7ea-91231066f393.png) -->
-
-
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="Coding" height='250' src="https://i.pinimg.com/originals/b5/6f/36/b56f368e30d5a4dfd7f9919f9eeec347.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragkmr45&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkmr45" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkmr45&theme=onedark" alt="anuragkmr45" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkmr45&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkmr45" /> </p>
 
 
 - 🔭 I’m currently working on **Open Source Projects**
@@ -21,6 +22,9 @@
 - 💬 Ask me about **php, MERN and java**
 
 - 📫 How to reach me **anurag45kmr@gmail.com**
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkmr45&theme=onedark" alt="anuragkmr45" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

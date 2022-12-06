@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **ML and DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **web dev and devops**
 

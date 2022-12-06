@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **web dev and devops**
 
-- 👨‍💻 All of my projects are available at [https://anuragkmr45.netlify.app/](https://anuragkmr45.netlify.app/)
+- 👨‍💻 My Linkedin - [Linkedin](https://www.linkedin.com/in/anurag-kumar-37aab221a/)
 
 - 💬 Ask me about **php, MERN and java**
 

@@ -48,7 +48,7 @@
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkmr45&theme=react&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragkmr45&theme=dracula"/>
 </p> -->
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anuragkmr45&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragkmr45&theme=onedark&show_icons=true&locale=en&layout=compact" alt="anuragkmr45" /></p>

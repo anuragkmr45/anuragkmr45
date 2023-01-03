@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkmr45&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkmr45" /> </p>
 
 
-- 🔭 I’m currently working on **Open Source Projects**
+<!-- - 🔭 I’m currently working on **Open Source Projects** -->
 
 - 🌱 I’m currently learning **DevOps**
 
